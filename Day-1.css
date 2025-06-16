@@ -1,0 +1,72 @@
+.Sravan-main{
+    width: 80%;
+    height: 485px;
+    border: 2px solid slategrey;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: relative;
+    }
+   
+     span {
+        background-color: black;
+        color: white;
+        font-size: 50px;
+        /* position: absolute;
+        top: 45px;
+        left: 45px; */
+         
+    } 
+
+    h1{
+   /* padding-right: 500px; */
+   position: absolute;
+   top:200px;
+   left: 300px;
+   font-size: 40px;
+   color: white;
+}
+.main1{
+     width: 91%;
+    height: 150px;
+    border: 2px solid navy;
+    margin: 4px;
+    
+}
+.Sravan1,.Sravan2,.Sravan3,.Sravan4{
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
+    position: relative;
+
+
+}
+p {
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 0px;
+}
+.main2{
+     width: 91%;
+    height: 150px;
+    border: 2px solid skyblue;
+    margin: 4px;
+}
+.Sravan5,.Sravan6,.Sravan7,.Sravan8{
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
+    position: relative;
+}
+p{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 0px;
+}
+img{
+    width: 100%;
+    
+}
